@@ -6,7 +6,8 @@
 
 <body>
 <div>
-<div><title>My Prime Academy Application Submission</title>
+ <title>My Prime Academy Application Submission</title></div>
+<div>
 <h2><b>Kelly Edelman</b></h2>
 <h3>220 West 2nd St #2307</h3>
 <h3>Kansas City, MO 64105</h3>
